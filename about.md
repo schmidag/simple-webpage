@@ -1,3 +1,3 @@
-# About me
+# Chapter 1
 
-I'm a librarian who's learning GitHub.
+Inquiring about Music
