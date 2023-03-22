@@ -1,3 +1,3 @@
-# Hello World
+# Music Inquiry
 
-This is a simple website
+This is an open textbook. It is intended for graduate or advanced undergraduate courses on music research methods and related topics. This book takes an approach informed by the Association of College and Research Libraries Framework for Information Literacy and the Music Library Association's Companion document. That is, the emphasis is on fostering information literacy related to music rather than on specific bibliography or source types, although many examples are provided. The open format of the book is remixable, so you can add institution-specific information about resources such as database access, or course-specific information about assignments types or writing genres. The intent of this book is to flexible so that faculty can adapt the text to local needs. Please feel free to reuse content or to "fork" the GitHub source for this site to create customized versions; it is asked that you indicate original authorship where relevant.
